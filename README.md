@@ -1,1 +1,1 @@
-# amindi
+# Wether App
